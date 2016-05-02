@@ -1,0 +1,7 @@
+<Context docBase="TiendaOnline_SantiagoHoyosZea" debug="5"
+	reloadable="true" crossContext="true">
+	<Resource name="BDtienda" auth="Container" type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver" maxActive="100" maxIdle="30"
+		maxWait="10000" username="usuarioTienda" password="123456789"
+		url="jdbc:mysql://51.254.134.174:3306/TIENDAONLINE" />
+</Context>
