@@ -2,6 +2,10 @@
 <br>
 Proyecto de final de asignatura "Acceso a datos" hecho con J2EE y BootStrap para desplegar en servidor Tomcat.
 
+#Estructura
+![alt tag](http://i.imgur.com/G1K7AZX.png)
+
+
 #Screenshoots
 <br>
 ![alt tag](http://i.imgur.com/P3z3Ubz.jpg)
